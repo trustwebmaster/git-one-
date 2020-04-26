@@ -36,7 +36,7 @@ if (isset($_POST['submit'])) {
         if ($tries == 0) {
             $_SESSION['errmsg'] = "Invalid username or password. Contact your adminstrator.";
         } else {
-            $_SESSION['errmsg'] = "Invalid username or password. " . $tries . " tries left.";
+            $_SESSION['errmsg'] = "trus trust . " . $tries . " tries left.";
             $extra = "index.php";
             $host  = $_SERVER['HTTP_HOST'];
             $uri  = rtrim(dirname($_SERVER['PHP_SELF']), '/\\');
