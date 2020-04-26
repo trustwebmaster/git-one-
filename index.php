@@ -56,7 +56,7 @@ if (isset($_POST['submit'])) {
     <meta name="description" content="" />
     <meta name="author" content="" />
 
-    <title>Trademark Registeration System</title>
+    <title>Trademark Registeration System Bus</title>
     <link href="assets/css/bootstrap.css" rel="stylesheet" />
     <link href="assets/css/font-awesome.css" rel="stylesheet" />
     <link href="assets/css/style.css" rel="stylesheet" />
