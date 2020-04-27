@@ -63,6 +63,7 @@ if (isset($_POST['submit'])) {
 </head>
 
 <body>
+     <h1>Trust</h1>
    <?php
 error_reporting(0);
 ?>
